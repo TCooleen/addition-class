@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=num1\ num2
+comment0.target=Addnum(double,\ double)
+comment1.params=
+comment1.target=void\ showAnswer()
+numComments=2
