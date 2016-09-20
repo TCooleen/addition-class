@@ -13,7 +13,9 @@ public class Addnum
         num = num1 + num2;
     }
     
-    // Prints the value contained in the double "num".
+    // Description: Prints the value contained in the double "num".
+    // Input: Void
+    // Example: "The sum of the two numbers = 5.0"
     public void showAnswer()
     {
         System.out.println("The sum of the two numbers = " + num);
